@@ -1,19 +1,36 @@
 # CA12025Paper_SpaceGoalReferencing
-This repository contains extensive matlab codes for analyzing my source data and producing paper figures.
+Repository Overview
 
-The source code is uploaded with the goal of running by itself to reproduce all the figures for the current papers, plus some related results I did along the way (some are for rebuttal, some are just informative for understaning).
+This repository contains a comprehensive MATLAB codebase for analyzing source datasets and generating publication-quality figures. The implementation is designed to be self-contained to fully reproduce all graphical elements from our current publications, along with supplemental analyses developed during the research process (including rebuttal materials and supplementary exploratory results).
 
-The source code relies on the source data, which will not be uploaded currently because I'm actively exploring the data set for another paper. Stay tuned, expect the source data to be open sourced around 2026, depending how the new paper goes.
+Data Availability Notice
 
-The code is open-sourced without any licenses, I wrote these codes, you do whatever with them. Just don't be evil.
+The source datasets remain temporarily restricted as we actively pursue additional investigations for a companion publication. Public release of the raw data is anticipated in 2026, subject to research progress. Updates will be provided through standard academic channels.
 
-If you find these codes useful for your work, please Cite my paper, Mention the sources, Acknowledge it publicly.
+Licensing & Usage
 
-My ORCID: 0000-0001-6421-4735
+This code is provided without formal licensing restrictions. While no usage limitations are imposed, we require ethical application consistent with academic integrity standards. Users are expressly prohibited from malicious exploitation.
 
-My bioRxiv paper: https://www.biorxiv.org/content/10.1101/2023.11.23.568469v1 
+Citation & Attribution
 
-If you have any questions please drop an email to qkx.zju@gmail.com or kqian@bcm.edu (If I'm still affiliated with BCM).
+If this work contributes to your research, please:
 
-Fish Kunxun Qian
-2025-01-27
+Cite our foundational paper:
+bioRxiv Preprint: https://www.biorxiv.org/content/10.1101/2023.11.23.568469v1
+
+Acknowledge this resource in publications
+
+Reference ORCID: 0000-0001-6421-4735
+
+Contact Information
+For technical inquiries or collaboration opportunities:
+
+qkx.zju@gmail.com
+
+or
+
+kqian@bcm.edu (active through current Baylor College of Medicine affiliation)
+
+Fish Kunxun Qian ("Soon to be" Ph.D.)
+
+January 27, 2025
