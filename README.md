@@ -25,12 +25,8 @@ Reference ORCID: 0000-0001-6421-4735
 Contact Information
 For technical inquiries or collaboration opportunities:
 
-qkx.zju@gmail.com
-
+Fish Kunxun Qian: qkx.zju@gmail.com
 or
-
-kqian@bcm.edu (active through current Baylor College of Medicine affiliation)
-
-Fish Kunxun Qian ("Soon to be" Ph.D.)
+Jeff Magee: jeffrey.magee@bcm.edu
 
 January 27, 2025
