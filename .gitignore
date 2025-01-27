@@ -1,0 +1,16 @@
+# MATLAB temporary files
+*.m~
+*.asv
+*.autosave
+*.mlappbak
+*.mat
+*.fig
+*.mex*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Compiled/private folders
+/private/
+/@*/
