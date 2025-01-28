@@ -1,5 +1,5 @@
 # Mechanisms of experience-dependent place-cell referencing in hippocampal CA1
-Repository Overview
+## Repository Overview
 
 This repository contains a comprehensive MATLAB codebase for analyzing the imaging datasets and generating publication-quality figures for the paper. The implementation is designed to be self-contained to fully reproduce all graphical elements from our current publications, along with supplemental analyses developed during the research process (including rebuttal materials and supplementary exploratory results). 
 
