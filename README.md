@@ -31,7 +31,7 @@ For any technical inquiries or collaboration opportunities:
 
 Fish Kunxun Qian: qkx.zju@gmail.com (preferred) 
 or
-Yiding Li: yiding.li@bcm.edu
+Yiding Li: yiding.li@bcm.edu (preferred for intracellular whole-cell recording related questions)
 or 
 Jeff Magee: jeffrey.magee@bcm.edu
 
