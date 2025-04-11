@@ -20,9 +20,9 @@ This code is provided without formal licensing restrictions. While no usage limi
 If this work contributes to your research, please:
 
 ### Cite our paper:
-bioRxiv Preprint: https://www.biorxiv.org/content/10.1101/2023.11.23.568469v1 
-
-(Note: The Preprint paper has been accepted in principle in a peer-reviewed journal with substantial revisions especially about the terms from allocentric/egocentric to space-referenced/goal-referenced. Once online, a new link will be provided.)
+Cite this article
+Qian, F.K., Li, Y. & Magee, J.C. Mechanisms of experience-dependent place-cell referencing in hippocampal area CA1. Nat Neurosci (2025). 
+https://doi.org/10.1038/s41593-025-01930-5 
 
 Acknowledge this resource in publications
 
